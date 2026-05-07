@@ -270,16 +270,6 @@ This project helps demonstrate how a properly designed network can:
 
 ---
 
-# 🎓 Accreditation
-
-### DATA BRIDGE INNOVATIONS
-
-Accredited by the:
-
-## 🏛️ American Council of Training and Development
-
----
-
 # 👨‍💻 Author
 
 ## Damilola Adeniye
