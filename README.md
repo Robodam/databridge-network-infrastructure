@@ -288,19 +288,19 @@ Accredited by the:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/dadeniye">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/robodam">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:damiadeniye@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/YOUR_CV_LINK">
+<a href="https://drive.google.com/file/d/17b64iuDNvzIk4Pa1_8Yja3uVCwO3kpqS/view?usp=drive_link)">
   <img src="https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
