@@ -1,18 +1,18 @@
-# databridge-network-infrastructure
-Secure SOHO Network Infrastructure project built using Cisco Packet Tracer. This project demonstrates LAN design, IP addressing, routing, inter-department communication, connectivity testing, troubleshooting, and basic ACL implementation for network security in a small business environment.
+# Databridge-network-infrastructure
+Secure Databridge Network Infrastructure project built using Cisco Packet Tracer. This project demonstrates LAN design, IP addressing, routing, inter-department communication, connectivity testing, troubleshooting, and basic ACL implementation for network security in a small business environment.
 <!-- ========================================================= -->
-<!--          SOHO NETWORK SECURITY PROJECT README             -->
+<!--           Databridge NETWORK SECURITY PROJECT README             -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:00f7ff&text=SOHO%20Network%20Security%20Project&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=ffffff&desc=Cisco%20Packet%20Tracer%20%7C%20Network%20Design%20%7C%20ACL%20Implementation&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:00f7ff&text=Databridge%20Network%20Security%20Project&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=ffffff&desc=Cisco%20Packet%20Tracer%20%7C%20Network%20Design%20%7C%20ACL%20Implementation&descAlignY=60"/>
 
-# 🛡️ Building a Secure SOHO Network Infrastructure
+# 🛡️ Building a Secure  Databridge Network Infrastructure
 
 ### 🔐 Cisco Packet Tracer Network Design & Security Project
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure+Network+Infrastructure;SOHO+Network+Design;Cisco+Packet+Tracer+Simulation;Routing+%26+ACL+Configuration;Network+Security+Implementation;Connectivity+Testing+%26+Troubleshooting"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure+Network+Infrastructure;Databridge+Network+Design;Cisco+Packet+Tracer+Simulation;Routing+%26+ACL+Configuration;Network+Security+Implementation;Connectivity+Testing+%26+Troubleshooting"/>
 
 </div>
 
@@ -20,7 +20,7 @@ Secure SOHO Network Infrastructure project built using Cisco Packet Tracer. This
 
 # 📖 Project Overview
 
-This project demonstrates the design and implementation of a **Secure Small Office/Home Office (SOHO) Network Infrastructure** using **Cisco Packet Tracer**.
+This project demonstrates the design and implementation of a **Secure Small Office/Home Office (Databridge) Network Infrastructure** using **Cisco Packet Tracer**.
 
 The network was designed for a fictional company called:
 
